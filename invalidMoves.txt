@@ -1,0 +1,54 @@
+rnbqkbnr  8
+pppppppp  7
+........  6
+........  5
+........  4
+........  3
+PPPPPPPP  2
+RNBQKBNR  1
+
+abcdefgh
+
+White's move: e2 e1
+Invalid move
+
+rnbqkbnr  8
+pppppppp  7
+........  6
+........  5
+........  4
+........  3
+PPPPPPPP  2
+RNBQKBNR  1
+
+abcdefgh
+
+White's move: a7 a6
+Invalid move
+
+rnbqkbnr  8
+pppppppp  7
+........  6
+........  5
+........  4
+........  3
+PPPPPPPP  2
+RNBQKBNR  1
+
+abcdefgh
+
+White's move: e2 e5
+Invalid move
+
+rnbqkbnr  8
+pppppppp  7
+........  6
+........  5
+........  4
+........  3
+PPPPPPPP  2
+RNBQKBNR  1
+
+abcdefgh
+
+White's move: 

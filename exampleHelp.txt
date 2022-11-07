@@ -1,0 +1,50 @@
+rnbqkbnr  8
+pppppppp  7
+........  6
+........  5
+........  4
+........  3
+PPPPPPPP  2
+RNBQKBNR  1
+
+abcdefgh
+
+White's move: h
+
+Welcome to Chess!
+When it's your turn, enter one of the following:
+1) 'h' or 'H': Print the help menu
+2) 'q' or 'Q': Quit the game
+3) position1 position2: The positions (as letterNumber) to move from and to respectively.
+
+rnbqkbnr  8
+pppppppp  7
+........  6
+........  5
+........  4
+........  3
+PPPPPPPP  2
+RNBQKBNR  1
+
+abcdefgh
+
+White's move: H
+
+Welcome to Chess!
+When it's your turn, enter one of the following:
+1) 'h' or 'H': Print the help menu
+2) 'q' or 'Q': Quit the game
+3) position1 position2: The positions (as letterNumber) to move from and to respectively.
+
+rnbqkbnr  8
+pppppppp  7
+........  6
+........  5
+........  4
+........  3
+PPPPPPPP  2
+RNBQKBNR  1
+
+abcdefgh
+
+White's move: 

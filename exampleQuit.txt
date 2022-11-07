@@ -1,0 +1,65 @@
+rnbqkbnr  8
+pppppppp  7
+........  6
+........  5
+........  4
+........  3
+PPPPPPPP  2
+RNBQKBNR  1
+
+abcdefgh
+
+White's move: q
+Are you sure you want to quit? n
+rnbqkbnr  8
+pppppppp  7
+........  6
+........  5
+........  4
+........  3
+PPPPPPPP  2
+RNBQKBNR  1
+
+abcdefgh
+
+White's move: q
+Are you sure you want to quit? e
+rnbqkbnr  8
+pppppppp  7
+........  6
+........  5
+........  4
+........  3
+PPPPPPPP  2
+RNBQKBNR  1
+
+abcdefgh
+
+White's move: Q
+Are you sure you want to quit? n
+rnbqkbnr  8
+pppppppp  7
+........  6
+........  5
+........  4
+........  3
+PPPPPPPP  2
+RNBQKBNR  1
+
+abcdefgh
+
+White's move: Q
+Are you sure you want to quit? b
+rnbqkbnr  8
+pppppppp  7
+........  6
+........  5
+........  4
+........  3
+PPPPPPPP  2
+RNBQKBNR  1
+
+abcdefgh
+
+White's move: Q
+Are you sure you want to quit? Y

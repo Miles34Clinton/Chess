@@ -1,0 +1,96 @@
+rnbqkbnr  8
+pppppppp  7
+........  6
+........  5
+........  4
+........  3
+PPPPPPPP  2
+RNBQKBNR  1
+
+abcdefgh
+
+White's move: e2 e4
+rnbqkbnr  8
+pppppppp  7
+........  6
+........  5
+....P...  4
+........  3
+PPPP.PPP  2
+RNBQKBNR  1
+
+abcdefgh
+
+Black's move: e7 e5
+rnbqkbnr  8
+pppp.ppp  7
+........  6
+....p...  5
+....P...  4
+........  3
+PPPP.PPP  2
+RNBQKBNR  1
+
+abcdefgh
+
+White's move: d1 h5
+rnbqkbnr  8
+pppp.ppp  7
+........  6
+....p..Q  5
+....P...  4
+........  3
+PPPP.PPP  2
+RNB.KBNR  1
+
+abcdefgh
+
+Black's move: a7 a6
+rnbqkbnr  8
+.ppp.ppp  7
+p.......  6
+....p..Q  5
+....P...  4
+........  3
+PPPP.PPP  2
+RNB.KBNR  1
+
+abcdefgh
+
+White's move: f1 c4
+rnbqkbnr  8
+.ppp.ppp  7
+p.......  6
+....p..Q  5
+..B.P...  4
+........  3
+PPPP.PPP  2
+RNB.K.NR  1
+
+abcdefgh
+
+Black's move: a6 a5
+rnbqkbnr  8
+.ppp.ppp  7
+........  6
+p...p..Q  5
+..B.P...  4
+........  3
+PPPP.PPP  2
+RNB.K.NR  1
+
+abcdefgh
+
+White's move: h5 f7
+rnbqkbnr  8
+.ppp.Qpp  7
+........  6
+p...p...  5
+..B.P...  4
+........  3
+PPPP.PPP  2
+RNB.K.NR  1
+
+abcdefgh
+
+Checkmate
